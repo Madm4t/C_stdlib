@@ -30,6 +30,6 @@ This project was part of the 42 School curriculum, where you must adhere to stri
    ```bash
    #include "libft.h"
 
-3. Link the library, for example
+3. When compilink your Program link the library, for example
    ```bash
    gcc -Wall -Werror -Wextra -I. main.c -L. -lft -o main
