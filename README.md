@@ -19,7 +19,7 @@ A reimplementation of selected C Standard Library functions, written in complian
 
 ## About
 
-`libft-42` is a custom implementation of 25+ functions from the C Standard Library (e.g. `ft_strlen`, `ft_memcpy`, `ft_strchr`).  
+`C_stdlib` is a custom implementation of 25+ functions from the C Standard Library (e.g. `ft_strlen`, `ft_memcpy`, `ft_strchr`).  
 This project was part of the 42 School curriculum, where you must adhere to strict style and function-use restrictions to deepen your understanding of low-level C programming.
 
 ## Features
@@ -32,5 +32,5 @@ This project was part of the 42 School curriculum, where you must adhere to stri
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<your-username>/libft-42.git
-   cd libft-42
+   git clone https://github.com/Madm4t/C-stdlib.git
+   cd C-stdlib
