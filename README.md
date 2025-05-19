@@ -1,5 +1,4 @@
-# libft-42
-[![CI](https://img.shields.io/badge/build-passing-brightgreen)]()  
+# C_stdlib
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
 A reimplementation of selected C Standard Library functions, written in compliance with the 42 School’s Norm guidelines and restrictions.
