@@ -17,7 +17,7 @@ This project was part of the 42 School curriculum, where you must adhere to stri
 ## Features
 
 - Reimplements core libc functions: memory, string, character, and I/O helpers  
-- 100% Norm-compliant: no forbidden functions, 25 lines max per function, 80-column limit  
+- 100% Norm-compliant: no forbidden functions, 25 lines max per function, 80-column limit, 4 functions max per file, max 4 arguments/parameters per function.
 - Thoroughly tested on edge cases (NULL pointers, zero lengths, etc.)
 
 ## Usage
