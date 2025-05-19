@@ -7,14 +7,7 @@ A reimplementation of selected C Standard Library functions, written in complian
 
 - [About](#about)  
 - [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Coding Norm](#coding-norm)  
-- [Examples](#examples)  
-- [Testing](#testing)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Author](#author)
+- [Usage](#usage)   
 
 ## About
 
@@ -27,9 +20,16 @@ This project was part of the 42 School curriculum, where you must adhere to stri
 - 100% Norm-compliant: no forbidden functions, 25 lines max per function, 80-column limit  
 - Thoroughly tested on edge cases (NULL pointers, zero lengths, etc.)
 
-## Installation
+## Usage
 
-1. Clone this repository  
+1. Clone this repository
    ```bash
    git clone https://github.com/Madm4t/C-stdlib.git
-   cd C-stdlib
+
+2. Include the header in your program
+   ```bash
+   #include "libft.h"
+
+3. Link the library, for example
+   ```bash
+   gcc -Wall -Werror -Wextra -I. main.c -L. -lft -o main
