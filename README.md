@@ -1,5 +1,5 @@
 # C_stdlib
-[![License](https://img.shields.io/badge/license-MIT-blue)]()
+[![License](https://img.shields.io/badge/license-Unlicense-blue)](/LICENSE)
 
 A reimplementation of selected C Standard Library functions, written in compliance with the 42 School’s Norm guidelines and restrictions.
 
